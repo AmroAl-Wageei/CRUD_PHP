@@ -2,4 +2,8 @@
 CRUD PHP
 
 
-Amro : 
+Harasis : Connect with DB and Create table
+Shaima  :  READ
+Haneen  : CREATE
+Zohdi   : UPDATE
+Amro    : Delete
